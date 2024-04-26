@@ -1,0 +1,1 @@
+api_key= "ApI_Key creada en https://platform. openai.com" 
